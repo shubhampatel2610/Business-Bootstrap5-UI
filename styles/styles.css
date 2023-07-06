@@ -379,7 +379,6 @@ header .menu-bar i{
     position: relative;
     left: 50%;
     top: 50%;
-    z-index: 5;
 }
 
 #our-intro-video .intro-video .play-button i{
